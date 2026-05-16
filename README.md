@@ -235,7 +235,7 @@ This tool was built for educational and practical support purposes in the contex
 
 ## Author
 
-Built by Mr. Suleman, on community health placement in Nkoranza, Bono East Region, Ghana.
+Built by Mr. Suleman, Anglican university Nursing student.
 Developed as part of NUS 358: Research Methods coursework and digital skills training.
 
 Clinical protocols referenced from:
